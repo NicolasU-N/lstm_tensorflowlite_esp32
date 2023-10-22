@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Build artifacts
+build/
+cmake-build/
+esp-idf/build/
+
+# Compiled files
+*.bin
+*.elf
+*.bin.map
+*.elf.map
+*.a
+
+# Object files
+*.o
+*.d
+*.dSYM/
+
+# Logs
+*.log
+
+# Generated SDK configuration files
+sdkconfig
+sdkconfig.old
+
+# Visual Studio Code settings
+.vscode/
+
+# CMake files
+CMakeLists.txt.user
+
+# Custom CMake files
+CMakeUserPresets.json
+CMakeUserPresets.json.lock
