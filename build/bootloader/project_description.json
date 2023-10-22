@@ -1,0 +1,25 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader/subproject",
+    "build_dir":          "C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/bootloader",
+    "config_file":        "C:/Users/nico3/Documents/espressif_workspace/tf_esp32/sdkconfig",
+    "config_defaults":    "",
+    "bootloader_elf":     "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v5.0.1-dirty",
+    "target":             "esp32",
+    "rev":                "0",
+    "min_rev":            "0",
+    "max_rev":            "399",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/efuse/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_common/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_hw_support/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_system/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/freertos/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/hal/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/log/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/newlib/Kconfig;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader/Kconfig.projbuild;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_app_format/Kconfig.projbuild;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_rom/Kconfig.projbuild;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esptool_py/Kconfig.projbuild;C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp_app_format", "esp_common", "esp_hw_support", "esp_rom", "esp_system", "esptool_py", "freertos", "hal", "log", "main", "micro-ecc", "newlib", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader_support", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/efuse", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_app_format", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_common", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_hw_support", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_rom", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esp_system", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/esptool_py", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/freertos", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/hal", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/log", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader/subproject/main", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/bootloader/subproject/components/micro-ecc", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/newlib", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/partition_table", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/soc", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/spi_flash", "C:/ESPIDF/.espressif/frameworks/esp-idf-v5.0.1/components/xtensa", "" ],
+    "debug_prefix_map_gdbinit": ""
+}
