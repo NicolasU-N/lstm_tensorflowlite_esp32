@@ -56,7 +56,9 @@ C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/json/libjson
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/mqtt/libmqtt.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/perfmon/libperfmon.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/spiffs/libspiffs.a
+C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/touch_element/libtouch_element.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/ulp/libulp.a
+C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/usb/libusb.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/espressif__esp-nn/libespressif__esp-nn.a
 C:/Users/nico3/Documents/espressif_workspace/tf_esp32/build/esp-idf/espressif__esp-tflite-micro/libespressif__esp-tflite-micro.a
